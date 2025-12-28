@@ -1,0 +1,46 @@
+{
+  "version": "v1.0.8",
+  "release_date": "2025-12-12",
+  "description": "版本 v1.0.8 更新",
+  "min_version": "v1.0.0",
+  "changelog": [
+    "热更新功能"
+  ],
+  "files": [
+    {
+      "path": "static/version.txt",
+      "md5": "972ed52d5414e6f055acff4c5fbb2503",
+      "size": 7,
+      "requires_restart": true,
+      "description": ""
+    },
+    {
+      "path": "static/js/app.js",
+      "md5": "99e701269981f0fd349b2b13863d6f73",
+      "size": 480107,
+      "requires_restart": false,
+      "description": ""
+    },
+    {
+      "path": "reply_server.py",
+      "md5": "f0dc1075fd549a431fa9e1c7c2cd97d2",
+      "size": 250566,
+      "requires_restart": true,
+      "description": ""
+    },
+    {
+      "path": "XianyuAutoAsync.py",
+      "md5": "1877d7168dacad910d3e9c2eaff1e537",
+      "size": 511512,
+      "requires_restart": true,
+      "description": ""
+    },
+    {
+      "path": "db_manager.py",
+      "md5": "bbdf0701a68f18af13b0b21c18a50327",
+      "size": 262519,
+      "requires_restart": true,
+      "description": ""
+    }
+  ]
+}
